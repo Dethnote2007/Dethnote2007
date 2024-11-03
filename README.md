@@ -1,3 +1,5 @@
+![Mô tả GIF](link_toi_gif)
+
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/Dethnote2007.png" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/stitch/50/pig--v1.png" alt="pig--v1"/> -->
