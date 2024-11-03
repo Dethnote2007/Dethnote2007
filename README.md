@@ -1,4 +1,4 @@
-![](https://x.com/i/status/1846549659432468952)
+![Mô tả GIF](https://x.com/i/status/1846549659432468952)
 
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/Dethnote2007.png" />
