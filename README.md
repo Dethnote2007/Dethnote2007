@@ -1,3 +1,8 @@
+<!-- Daiduong -->
+<a href="#" target="_blank">
+  <img src="svg/duongdz.svg" width="1200" alt="Duong-gio-tai" />
+</a>
+
 <img align="right" width="64" src="https://github.com/Dethnote2007.png" />
 
 <h2 align="center">Hi 👋, I'm Duong</h2>
