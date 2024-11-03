@@ -1,5 +1,3 @@
-![:))](https://github.com/Dethnote2007/Dethnote2007/blob/main/Gif/butterfly.gif)
-
 <img align="right" width="64" src="https://github.com/Dethnote2007.png" />
 
 <h2 align="center">Hi 👋, I'm Duong</h2>
@@ -30,3 +28,5 @@
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </p>
+
+![:))](https://github.com/Dethnote2007/Dethnote2007/blob/main/Gif/butterfly.gif)
